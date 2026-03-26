@@ -1,51 +1,121 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Simone",
+    "objectID": "research/research-3.html",
+    "href": "research/research-3.html",
+    "title": "Análisis de la variabilidad métrica y morfológica en las puntas de proyectil de Patagonia a través de estudios experimentales, morfometría geométrica y modelado estadístico",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
+    "text": "Este proyecto investiga la variabilidad métrica y morfológica de las puntas de proyectil de Fuego-Patagonia con el objetivo de inferir su función y reconstruir sus trayectorias de vida, mediante un enfoque integrador que combina estudios experimentales, modelado morfométrico y análisis estadísticos. En primer lugar, se desarrollan programas experimentales basados en la replicación de puntas líticas y su uso controlado mediante propulsor, lo que permite registrar de manera longitudinal los procesos de daño, fractura, mantenimiento y reactivación, generando datos empíricos sobre patrones de macrofractura y cambios alométricos asociados al uso. En segundo lugar, se emplean técnicas de modelado 2D y 3D mediante fotogrametría y morfometría geométrica, que posibilitan cuantificar con alta precisión las variaciones de forma y tamaño a lo largo de la secuencia de manufactura y uso, capturando aspectos complejos de la morfología no accesibles a través de medidas lineales tradicionales. Finalmente, estos datos son integrados mediante análisis estadísticos multivariados y modelos discriminantes, con el fin de identificar variables morfo-funcionales clave, diferenciar sistemas de armas (flechas, dardos, lanzas) y construir modelos predictivos aplicables al registro arqueológico. En conjunto, el proyecto propone que la forma de las puntas resulta de la interacción entre restricciones funcionales y procesos de historia de vida, y busca desarrollar un marco cuantitativo robusto que permita explicar la variabilidad observada y mejorar la inferencia funcional en contextos arqueológicos."
   },
   {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Simone",
-    "section": "Education",
-    "text": "Education\nWhere I studied"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Simone",
-    "section": "Experience",
-    "text": "Experience\nWhat I’ve done"
-  },
-  {
-    "objectID": "research/paper-1.html",
-    "href": "research/paper-1.html",
-    "title": "My First Paper",
+    "objectID": "research/research-3.html#escaneo-d-punta-experimental",
+    "href": "research/research-3.html#escaneo-d-punta-experimental",
+    "title": "Análisis de la variabilidad métrica y morfológica en las puntas de proyectil de Patagonia a través de estudios experimentales, morfometría geométrica y modelado estadístico",
     "section": "",
-    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+    "text": "This project investigates the metric and morphological variability of projectile points from Fuego-Patagonia in order to infer their function and reconstruct their life histories, through an integrative approach that combines experimental studies, geometric morphmetrics, and statistical analysis. First, it develops controlled experimental programs based on the replication of lithic points and their use with spear-throwers, allowing the longitudinal recording of damage, fracture, maintenance, and resharpening processes, and generating empirical data on diagnostic fracture patterns and allometric changes associated with use. Second, it employs 2D and 3D modeling and geometric morphometrics, enabling precise quantification of shape and size variation throughout manufacturing and use sequences, and capturing complex morphological features beyond traditional linear measurements. Finally, these datasets are integrated using multivariate statistics and discriminant models to identify key morpho-functional variables, differentiate weapon systems (arrows, darts, spears), and build predictive frameworks applicable to the archaeological record. Overall, the project argues that projectile point morphology reflects the interaction between functional constraints and life history processes, and aims to develop a robust quantitative framework to explain observed variability and improve functional inference in archaeology.\n\n\n\nTendencia general de cambio morfologico-recostruccion 3D"
+  },
+  {
+    "objectID": "research/research-1.html",
+    "href": "research/research-1.html",
+    "title": "Arqueología de la costa de río Negro. Argentina",
+    "section": "",
+    "text": "Marcelo Bormida en 1964\n\n\nLa costa norpatagónica del Atlántico (Golfo San Matías, Río Negro, Argentina) es una región de gran riqueza arqueológica que se extiende a lo largo de 380 km y presenta evidencias de adaptaciones humanas tempranas a la explotación de recursos marinos. Los primeros estudios, realizados por el Dr. Bórmida en las décadas de 1960 dentro del marco histórico-cultural, se centraron principalmente en materiales líticos de superficie para definir “industrias” y reconstruir secuencias prehistóricas de aproximadamente 6.000 años.\nTras varias décadas sin investigaciones, lo que generó un vacío de información, nuestro equipo de investigación trabaja de manera continua en esta región desde 2004, con un enfoque en las adaptaciones costeras. Nuestra aproximación integra estudios distribucionales y tecnológicos, análisis paleoambientales, isotópicos y zooarqueológicos, junto con la construcción de un marco cronológico sólido. Estos trabajos han permitido revisar de manera sustancial la visión tradicional de los cazadores-recolectores patagónicos, aportando evidencia robusta sobre la existencia de grupos costeros que explotaban recursos marinos y terrestres al menos desde fines del Holoceno medio.\n\n\n\nCorral de pesca\n\n\n\nThe North Atlantic Patagonian Coast (San Matías Gulf, Río Negro, Argentina) is an archaeologically rich region extending over 380 km, with evidence of early human adaptation to marine resources. Initial studies conducted by Dr. Bórmida in the 1960s, within the Culture-Historical framework, focused mainly on surface lithic materials to define industries and reconstruct prehistoric sequences spanning approximately 6,000 years.\nAfter several decades without research, creating a significant information gap, our research team has been working continuously in this region since 2004, focusing on coastal adaptations. Our approach integrates distributional and lithic analyses, paleoenvironmental and isotopic studies, zooarchaeology, and the development of a robust chronological framework. These investigations have significantly revised traditional views of Patagonian hunter-gatherers, providing strong evidence for the presence of coastal groups exploiting both terrestrial and marine resources, at least since the end of the Middle Holocene.\n\n\n\nRegistro historico (pulperos)"
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
-    "title": "Research",
+    "title": "Lineas de investigación",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "Arqueología de la costa de río Negro. Argentina\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrayectorias evolutivas de la tecnologia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnálisis de la variabilidad métrica y morfológica en las puntas de proyectil de Patagonia a través de estudios experimentales, morfometría geométrica y modelado estadístico\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTrabajos publicados recientemente / Recent papers\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/project-1.html",
-    "href": "research/project-1.html",
-    "title": "My First Project",
+    "objectID": "Docencia.html",
+    "href": "Docencia.html",
+    "title": "Docencia/Teaching",
     "section": "",
-    "text": "A description of my project.\nCould include a photo, or links, or anything at all!"
+    "text": "Me desempeño como docente en cursos de grado y posgrado en arqueología y antropología, con énfasis en métodos cuantitativos, teoría evolutiva y análisis estadístico aplicado.\n\n\n\nSeminario de grado de R\n\n\n\n\n\nMétodos cuantitativos en Arqueología. Facultad de Filosofía y Letras, Universidad de Buenos Aires (UBA).\n\nElementos de Antropología y Arqueología Evolutiva. Facultad de Filosofía y Letras, Universidad de Buenos Aires (UBA).\n\n\n\n\n\nHerramientas cuantitativas para ciencias sociales con R. Facultad de Filosofía y Letras, Universidad de Buenos Aires (UBA).\n\n\n\n\n\nMétodos 1 (Métodos Cuantitativos). Curso de Magíster del programa de posgrado en Antropología, Universidad de Tarapacá, Arica, Chile."
+  },
+  {
+    "objectID": "Docencia.html#docencia",
+    "href": "Docencia.html#docencia",
+    "title": "Docencia/Teaching",
+    "section": "",
+    "text": "Me desempeño como docente en cursos de grado y posgrado en arqueología y antropología, con énfasis en métodos cuantitativos, teoría evolutiva y análisis estadístico aplicado.\n\n\n\nSeminario de grado de R\n\n\n\n\n\nMétodos cuantitativos en Arqueología. Facultad de Filosofía y Letras, Universidad de Buenos Aires (UBA).\n\nElementos de Antropología y Arqueología Evolutiva. Facultad de Filosofía y Letras, Universidad de Buenos Aires (UBA).\n\n\n\n\n\nHerramientas cuantitativas para ciencias sociales con R. Facultad de Filosofía y Letras, Universidad de Buenos Aires (UBA).\n\n\n\n\n\nMétodos 1 (Métodos Cuantitativos). Curso de Magíster del programa de posgrado en Antropología, Universidad de Tarapacá, Arica, Chile."
+  },
+  {
+    "objectID": "Docencia.html#teaching",
+    "href": "Docencia.html#teaching",
+    "title": "Docencia/Teaching",
+    "section": "Teaching",
+    "text": "Teaching\nI teach undergraduate and graduate courses in archaeology and anthropology, with a focus on quantitative methods, evolutionary theory, and applied statistical analysis.\n\nUndergraduate courses\n\nQuantitative Methods in Archaeology. Faculty of Philosophy and Letters, University of Buenos Aires (UBA).\n\nElements of Evolutionary Anthropology and Archaeology. Faculty of Philosophy and Letters, University of Buenos Aires (UBA).\n\n\n\nUndergraduate seminars\n\nQuantitative Tools for Social Sciences with R. Faculty of Philosophy and Letters, University of Buenos Aires (UBA).\n\n\n\nGraduate teaching\n\nMethods 1 (Quantitative Methods). Master’s Program in Anthropology, University of Tarapacá, Arica, Chile."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simone",
+    "title": "Marcelo Cardillo",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "Soy investigador independiente del CONICET en arqueología con foco en tecnología lítica, teoría evolutiva y el uso de herramientas estadísticas.\nMi trabajo combina experimentación, análisis estadístico y modelado para comprender los procesos que generan el cambio tecnológico, particularmente en la costa de Patagonia (Argentina).\nActualmente desarrollo investigaciones sobre:\nCambio tecnológico Inferencia causal en arqueología Estrategias tecnológicas en la explotación de recursos costeros\nEstoy interesado en enfoques cuantitativos y reproducibles aplicados a problemas arqueológicos.\n\nI am independent researcher in CONICET specializing in archaeology specializing in lithic technology, evolutionary theory, and the use of statistical methods.\nMy research integrates experimentation, statistical analysis, and modeling to understand the processes driving technological change, particularly along the Patagonian coast (Argentina).\nI am currently working on:\nTechnological change Causal inference in archaeology Technological strategies in coastal resource exploitation\nI am interested in quantitative and reproducible approaches to archaeological problems."
+  },
+  {
+    "objectID": "research/Publicaciones recientes.html",
+    "href": "research/Publicaciones recientes.html",
+    "title": "Trabajos publicados recientemente / Recent papers",
+    "section": "",
+    "text": "Unveiling the spatial structure of rock painting designs and information flow among hunter-gatherers in southern Patagonia\nPallo, M.C., Charlin, J., Cardillo, M., Funes, P.D., Manzi, L.M.\nJournal of Anthropological Archaeology\nApplying statistical and causal modeling to interpret thermal alteration in observational lithic data\nCardillo, M., Carranza, E.\nPeer Community Journal\nhttps://doi.org/10.24072/pcjournal.609\nTesting Replicas of Fell IV Points as Arrowheads\nCharlin, J., Cardillo, M., Donadei Corada, J.P., Arriaga, L.C., Moreno, E., Shott, M.\nLithic Technology\nhttps://doi.org/10.1080/01977261.2025.2577019"
+  },
+  {
+    "objectID": "research/Publicaciones recientes.html#section",
+    "href": "research/Publicaciones recientes.html#section",
+    "title": "Trabajos publicados recientemente / Recent papers",
+    "section": "",
+    "text": "Unveiling the spatial structure of rock painting designs and information flow among hunter-gatherers in southern Patagonia\nPallo, M.C., Charlin, J., Cardillo, M., Funes, P.D., Manzi, L.M.\nJournal of Anthropological Archaeology\nApplying statistical and causal modeling to interpret thermal alteration in observational lithic data\nCardillo, M., Carranza, E.\nPeer Community Journal\nhttps://doi.org/10.24072/pcjournal.609\nTesting Replicas of Fell IV Points as Arrowheads\nCharlin, J., Cardillo, M., Donadei Corada, J.P., Arriaga, L.C., Moreno, E., Shott, M.\nLithic Technology\nhttps://doi.org/10.1080/01977261.2025.2577019"
+  },
+  {
+    "objectID": "research/Publicaciones recientes.html#section-1",
+    "href": "research/Publicaciones recientes.html#section-1",
+    "title": "Trabajos publicados recientemente / Recent papers",
+    "section": "2024",
+    "text": "2024\n\nLas esferas y esferoides líticos de la colección “Juan Carlos Piscia”\nAlberti, J., Cardillo, M.\nIntersecciones en Antropología\nMulti-isotope approach allows tracking the circulation of ceramics across the Andes\nFrigolé, C. et al.\nJournal of Archaeological Science: Reports\nArchaeological record of historical–modern intertidal Octopus fishers of coastal North Patagonia\nCardillo, M., Venzi Zanazzi, A., Borella, F.\nJournal of Island and Coastal Archaeology\nBurned Lithics: An Experimental Approach to Characterize the Effects of Fire\nCarranza, E., Cardillo, M.\nLithic Technology\nhttps://doi.org/10.1080/01977261.2024.2425876\nAproximación al uso del espacio a partir del registro arqueológico superficial\nCardillo, M. et al.\nMagallania"
+  },
+  {
+    "objectID": "research/Publicaciones recientes.html#section-2",
+    "href": "research/Publicaciones recientes.html#section-2",
+    "title": "Trabajos publicados recientemente / Recent papers",
+    "section": "2023",
+    "text": "2023\n\nLa tecnología laminar en el extremo sur de Patagonia meridional\nPallo, M.C., Charlin, J., Cardillo, M., Borrero, L.A.\nLatin American Antiquity\nhttps://doi.org/10.1017/laq.2022.20\nEvolutionary radiation of mid-Holocene lanceolate points\nMuscio, H.J., Cardillo, M.\nCliodynamics\nExplaining the diversification of lithic projectile points\nCardillo, M., Alberti, J.\nJournal of Archaeological Science: Reports\nBenchmarking methods for geometric morphometric analysis of lithic tools\nAraujo, R.P. et al.\nEvolutionary Anthropology\nLate Pleistocene-Early Holocene Fishtail Points\nCardillo, M., Charlin, J., Moreno, J.E.\nPaleoAmerica\nThe role of Magellanic penguins on lithic taphonomy\nCarranza, E., Cardillo, M.\nThe Holocene"
+  },
+  {
+    "objectID": "research/Publicaciones recientes.html#section-3",
+    "href": "research/Publicaciones recientes.html#section-3",
+    "title": "Trabajos publicados recientemente / Recent papers",
+    "section": "2022",
+    "text": "2022\n\nEstudio Geoarqueológico Inicial en Punta Pórfido\nFavier Dubois, C.M. et al.\nChungara\nAlteraciones térmicas en guijarros costeros en Las Grutas\nCardillo, M. et al.\nRevista del Museo de Antropología"
+  },
+  {
+    "objectID": "research/Publicaciones recientes.html#section-4",
+    "href": "research/Publicaciones recientes.html#section-4",
+    "title": "Trabajos publicados recientemente / Recent papers",
+    "section": "2021",
+    "text": "2021\n\nBioavailable Strontium, Human Paleogeography, and Migrations\nBarberena, R. et al.\nFrontiers in Ecology and Evolution\nFilogenia, innovación y recambio tecnológico\nCardillo, M., Muscio, H.J.\nMundo de Antes\nFunctional efficiency and life history of lithic points\nCardillo, M. et al.\nJournal of Archaeological Science: Reports"
+  },
+  {
+    "objectID": "research/Publicaciones recientes.html#section-5",
+    "href": "research/Publicaciones recientes.html#section-5",
+    "title": "Trabajos publicados recientemente / Recent papers",
+    "section": "2020",
+    "text": "2020\n\nRock art as an indicator of hunter-gatherer circulation paths\nCarden, N., Borella, F., Cardillo, M.\nRock Art Research\nUso humano del espacio en un paisaje andino-patagónico\nRughini, A. et al.\nLatin American Antiquity\nDiferenciación sexual y social en retratos egipcios\nCharlin, J., Manzi, L., Cardillo, M.\nRevista Arqueología\nInvestigaciones en Islote Lobos\nBorella, F. et al.\nRevista del Museo de Antropología\nEstudio arqueobotánico en Punta Odriozola\nCiampagna, L. et al.\nRevista del Museo de Antropología\nMulti-isotopic and morphometric evidence for migration\nBarberena, R. et al.\nScientific Reports\nhttps://doi.org/10.1038/s41598-020-78013-x"
+  },
+  {
+    "objectID": "research/research-2.html",
+    "href": "research/research-2.html",
+    "title": "Trayectorias evolutivas de la tecnologia",
+    "section": "",
+    "text": "Filogenia de las Puntas Lanceoladas de la Puna Argentina\nEn esta linea de investigacion que sesarrolamos junto a distintos colegas explora el estudio de patrones evolutivos mediante herramientas metodológicas derivadas de la estadística multivariada, herramientas filogenéticas y el empleo de modelos evolutivos. Lo que posibilita analizar dinámicas de diversificación y transformación tecnológica desde una perspectiva explícitamente evolutiva."
+  },
+  {
+    "objectID": "research/research-2.html#trayectorias-temporales-para-un-rasgo-bajo-el-modelo-browniano-con-tendencia",
+    "href": "research/research-2.html#trayectorias-temporales-para-un-rasgo-bajo-el-modelo-browniano-con-tendencia",
+    "title": "Trayectorias evolutivas de la tecnologia",
+    "section": "",
+    "text": "In this line of research, which we have developed in collaboration with various colleagues, we explore the study of evolutionary patterns using methodological tools derived from multivariate statistics, phylogenetic approaches, and evolutionary models. This framework enables the analysis of technological diversification and transformation dynamics from an explicitly evolutionary perspective.\n\n\n\nTasa de iversificacion de puntas de proyectil de la Puna Argentina durante el Holoceno"
   }
 ]

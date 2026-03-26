@@ -1,9 +1,10 @@
 ---
-title: "Research"
+title: " Lineas de investigación"
 listing:
-  type: default
-  contents:
-    - "*.qmd"
+  contents: 
+    - research-1.qmd
+    - research-2.qmd
+    - research-3.qmd
+    - Publicaciones recientes.qmd
+  sort: "date desc"
 ---
-
-All of my research projects.

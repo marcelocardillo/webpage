@@ -1,25 +1,47 @@
 ---
-title: "Simone"
+title: "Marcelo Cardillo"
 about:
   template: jolla
-  image: profile.jpg
+  image: profile.jpeg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
-    - icon: github
-      text: Github
-      href: https://github.com
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com
     - icon: google
       text: Google Scholar
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=2jIxvWsAAAAJ&hl=es
+
+    - icon: globe
+      text: CONICET
+      href: https://www.conicet.gov.ar/new_scp/detalle.php?id=23844&datos_academicos=yes
+
+    - icon: mortarboard
+      text: UBA (FFyL)
+      href: https://antropologia.filo.uba.ar/marcelo-cardillo
+
+    - icon: person-badge
+      text: ORCID
+      href: https://orcid.org/0000-0003-0567-1252
 ---
+Soy investigador  independiente del CONICET en arqueología con foco en tecnología lítica, teoría evolutiva y el uso de herramientas estadísticas.
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
+Mi trabajo combina experimentación, análisis estadístico y modelado para comprender los procesos que generan el cambio tecnológico, particularmente en la costa de Patagonia (Argentina).
 
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
+Actualmente desarrollo investigaciones sobre:
 
-Please feel free to get in touch!
+Cambio tecnológico
+Inferencia causal en arqueología
+Estrategias tecnológicas en la explotación de recursos costeros
+
+Estoy interesado en enfoques cuantitativos y reproducibles aplicados a problemas arqueológicos.
+
+------
+
+I am independent researcher in  CONICET  specializing in archaeology specializing in lithic technology, evolutionary theory, and the use of statistical methods.
+
+My research integrates experimentation, statistical analysis, and modeling to understand the processes driving technological change, particularly along the Patagonian coast (Argentina).
+
+I am currently working on:
+
+Technological change
+Causal inference in archaeology
+Technological strategies in coastal resource exploitation
+
+I am interested in quantitative and reproducible approaches to archaeological problems.

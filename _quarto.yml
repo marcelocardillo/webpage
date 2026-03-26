@@ -7,12 +7,14 @@ website:
   favicon: logo.png
   navbar:
     left:
-      - href: about.qmd
-        text: About
       - href: research/index.qmd
-        text: Research
+        text: Investigación/Research
       - href: cv.pdf
         text: CV
+      - href: Docencia.qmd
+        text: Docencia/Teaching
+
+
 
 format:
   html:
