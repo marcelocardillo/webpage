@@ -8,10 +8,22 @@ title: "Trabajos publicados recientemente / Recent papers"
   Barberena, R., Luisi, P., Novellino, P., Tessone, A., Guevara, D., García, A., Nelson, E., le Roux, P., Herrera, C., Coz, M., Candito, G., Lopopolo, M., Le Corre, M., Becerra-Valdivia, L., Iraeta-Orbegozo, M., Tressieres, G., Lucero, G., Cardillo, M., Carbajo Merler, J., Da Peña, G., Suby, J., Roux, M., de Porras, M., Acosta, C., Mallea, C., Menéndez, L., Quintana, M., López, M., Troncoso, A., Luyt, J., Gray, K., Santana Sagredo, F., Orlando, L., Duran, V., Sealy, J., Patin, E., Quintana-Murci, L., Schroeder, H., Rascovan, N.  
   *Nature*  
   https://doi.org/10.1038/s41586-026-10233-z
+
+- **Testing Replicas of Fell IV Points as Arrowheads: Size and Shape Analysis on Experimental and Archaeological Points from Southernmost Patagonia**  
+  Charlin, J., Cardillo, M., Donadei Corada, J.P., Arriaga, L.C., Moreno, E., Shott, M.  
+  *Lithic Technology* 51(1): 47–63  
   
 ---
   
 ## 2025
+
+- **A bioavailable strontium isoscape for the Andes based on machine learning**  
+  Marsh, E.J., Cardillo, M., Knudson, K.J.  
+  *Journal of Archaeological Science*  
+
+- **Burned Lithics: An Experimental Approach to Characterize the Effects of Fire on the Lithic Archaeological Record of Northern Patagonia, Argentina**  
+  Carranza, E., Cardillo, M.  
+  *Lithic Technology* 50(4): 430–447  
 
 - **Unveiling the spatial structure of rock painting designs and information flow among hunter-gatherers in southern Patagonia**  
   Pallo, M.C., Charlin, J., Cardillo, M., Funes, P.D., Manzi, L.M.  
@@ -22,10 +34,6 @@ title: "Trabajos publicados recientemente / Recent papers"
   *Peer Community Journal*  
   https://doi.org/10.24072/pcjournal.609
 
-- **Testing Replicas of Fell IV Points as Arrowheads**  
-  Charlin, J., Cardillo, M., Donadei Corada, J.P., Arriaga, L.C., Moreno, E., Shott, M.  
-  *Lithic Technology*  
-  https://doi.org/10.1080/01977261.2025.2577019
 
 ---
 
@@ -35,107 +43,115 @@ title: "Trabajos publicados recientemente / Recent papers"
   Alberti, J., Cardillo, M.  
   *Intersecciones en Antropología*
 
-- **Multi-isotope approach allows tracking the circulation of ceramics across the Andes**  
+- **Multi-isotope approach allows tracking the circulation of ceramics across the Andes (Argentina and Chile)**  
   Frigolé, C. et al.  
   *Journal of Archaeological Science: Reports*
 
-- **Archaeological record of historical–modern intertidal Octopus fishers of coastal North Patagonia**  
+- **Archaeological record of historical–modern intertidal Octopus fishers of coastal North Patagonia, Argentina**  
   Cardillo, M., Venzi Zanazzi, A., Borella, F.  
-  *Journal of Island and Coastal Archaeology*
+  *Journal of Island and Coastal Archaeology* 20(2): 524–541  
+  
+- **New results of obsidian artifact analysis from the middle and lower basin of the Salado stream, Río Negro province, Argentina**  
+  Alberti, J., Cardillo, M., Stern, C.  
+  *Archaeometry* 66(2): 326–339  
 
-- **Burned Lithics: An Experimental Approach to Characterize the Effects of Fire**  
-  Carranza, E., Cardillo, M.  
-  *Lithic Technology*  
-  https://doi.org/10.1080/01977261.2024.2425876
+- **Discutiendo patrones y procesos en la distribución espacial del registro arqueológico en el curso medio del arroyo Salado, departamento de San Antonio, provincia de Río Negro**  
+  Cardillo, M., Alberti, J., Carranza, E., Di Prado, V.S., Borella, F.  
+  *Magallania*  
 
-- **Aproximación al uso del espacio a partir del registro arqueológico superficial**  
-  Cardillo, M. et al.  
-  *Magallania*
 
 ---
 
 ## 2023
 
-- **La tecnología laminar en el extremo sur de Patagonia meridional**  
-  Pallo, M.C., Charlin, J., Cardillo, M., Borrero, L.A.  
-  *Latin American Antiquity*  
-  https://doi.org/10.1017/laq.2022.20
-
-- **Evolutionary radiation of mid-Holocene lanceolate points**  
-  Muscio, H.J., Cardillo, M.  
-  *Cliodynamics*
-
-- **Explaining the diversification of lithic projectile points**  
-  Cardillo, M., Alberti, J.  
-  *Journal of Archaeological Science: Reports*
-
-- **Benchmarking methods for geometric morphometric analysis of lithic tools**  
-  Araujo, R.P. et al.  
-  *Evolutionary Anthropology*
-
-- **Late Pleistocene-Early Holocene Fishtail Points**  
+- **Late Pleistocene–Early Holocene fishtail points from Southernmost Patagonia (South America): An estimation of use-life using experimental data and survival curve models**  
   Cardillo, M., Charlin, J., Moreno, J.E.  
-  *PaleoAmerica*
+  *PaleoAmerica* 9(2): 148–164  
 
-- **The role of Magellanic penguins on lithic taphonomy**  
-  Carranza, E., Cardillo, M.  
-  *The Holocene*
+- **La tecnología laminar en el extremo sur de Patagonia meridional: Un análisis de la variación morfológica en instrumentos de filo largo mediante morfometría geométrica**  
+  Pallo, M.C., Charlin, J., Cardillo, M., Borrero, L.A.  
+  *Latin American Antiquity* 34(1): 156–173  
 
+- **Tecnología lítica, uso de materias primas y análisis tafonómicos en la localidad arqueológica Arroyo Verde, Río Negro, Argentina**  
+  Cardillo, M., Alberti, J., Carranza, E.  
+
+- **Evolutionary radiation of mid-Holocene lanceolate points from the highlands of the South Central Andes**  
+  Muscio, H.J., Cardillo, M.  
+  *Cliodynamics* 14(1)  
+
+- **Benchmarking methods and data for the whole-outline geometric morphometric analysis of lithic tools**  
+  Araujo, R.P., Riede, F., Okumura, M., Araujo, A.G.M., Leplongeon, A., Wren, C., et al.  
+  *Evolutionary Anthropology* 32(3): 124–127 
+  
+  - **Explaining the diversification of lithic projectile points from the northern Patagonian coast (Argentina) during the Holocene using phylogenetic and comparative methods**  
+  Cardillo, M., Alberti, J.  
+  *Journal of Archaeological Science: Reports* 51: 104144  
+  
 ---
 
 ## 2022
 
-- **Estudio Geoarqueológico Inicial en Punta Pórfido**  
-  Favier Dubois, C.M. et al.  
-  *Chungara*
+- **Alteraciones térmicas en guijarros costeros en la localidad de Las Grutas (Río Negro): Discutiendo sus implicancias para la interpretación del registro arqueológico lítico**  
+  Cardillo, M., Carranza, E., Alberti, J., Borella, F.  
+  *Revista del Museo de Antropología* 15(3): 273–288  
 
-- **Alteraciones térmicas en guijarros costeros en Las Grutas**  
-  Cardillo, M. et al.  
-  *Revista del Museo de Antropología*
+- **Initial geoarchaeological study of the formation of rockshelters and their fillings in Punta Pórfido (Río Negro, Argentina)**  
+  Favier Dubois, C.M., Villegas, D.H., Alcaraz, A.P., Cardillo, M., Vitale, P.  
+  *Chungara: Revista de Antropología Chilena* 54(1): 33–53  
 
 ---
 
 ## 2021
 
-- **Bioavailable Strontium, Human Paleogeography, and Migrations**  
-  Barberena, R. et al.  
-  *Frontiers in Ecology and Evolution*
+- **Functional efficiency and life history of Late Holocene lithic points from southern Patagonia: An experimental estimation using survival curve models**  
+  Cardillo, M., Charlin, J., Arriaga, L.C., Donadei Corada, J.P., Moreno, E., et al.  
+  *Journal of Archaeological Science: Reports* 38: 103023  
 
-- **Filogenia, innovación y recambio tecnológico**  
-  Cardillo, M., Muscio, H.J.  
-  *Mundo de Antes*
+- **Distributional archaeology and human biogeography in an Andean–Patagonian landscape**  
+  Rughini, A.A., Romero Villanueva, G., Lucero, G., Cardillo, M., Borrazzo, K., et al.  
+  *Cambridge University Press*  
 
-- **Functional efficiency and life history of lithic points**  
-  Cardillo, M. et al.  
-  *Journal of Archaeological Science: Reports*
+- **Bioavailable strontium, human paleogeography, and migrations in the Southern Andes: A machine learning and GIS approach**  
+  Barberena, R., Cardillo, M., Lucero, G., Le Roux, P.J., Tessone, A., Llano, C., et al.  
+  *Frontiers in Ecology and Evolution* 9: 584325  
 
+- **Herramientas cuantitativas para ciencias sociales con R**  
+  Cardillo, M.  
+  *Universidad de Buenos Aires, Facultad de Filosofía y Letras*  
+
+- **Estudio geoarqueológico inicial de la formación de aleros y sus rellenos en la localidad Punta Pórfido (Río Negro, Argentina)**  
+  Favier Dubois, C.M., Herrera Villegas, D., Alcaraz, A.P., Cardillo, M., Vitale, P.  
+  *Chungará (Arica)*  
+  
 ---
 
 ## 2020
 
-- **Rock art as an indicator of hunter-gatherer circulation paths**  
+- **Multi-isotopic and morphometric evidence for the migration of farmers leading up to the Inka conquest of the southern Andes**  
+  Barberena, R., Menéndez, L., Le Roux, P.J., Marsh, E.J., Tessone, A., et al.  
+  *Scientific Reports* 10(1): 21171  
+
+- **Rock art relatedness and circulation paths in Northeast Patagonia, Argentina**  
   Carden, N., Borella, F., Cardillo, M.  
-  *Rock Art Research*
+  *Rock Art Research*  
 
-- **Uso humano del espacio en un paisaje andino-patagónico**  
-  Rughini, A. et al.  
-  *Latin American Antiquity*
+- **Sexual and social differentiation: Their role in the morphological variation of portrayals at Theban Tomb 49, Egypt**  
+  Charlin, J.E., Manzi, L.M., Cardillo, M.  
+  *Arqueología* 26(3): 187–205  
 
-- **Diferenciación sexual y social en retratos egipcios**  
-  Charlin, J., Manzi, L., Cardillo, M.  
-  *Revista Arqueología*
+- **Arqueología distribucional y biogeografía humana en un paisaje andino-patagónico**  
+  Rughini, A.A., Romero Villanueva, G., Lucero, G., Cardillo, M., Borrazzo, K., et al.  
+  *Latin American Antiquity* 31(3): 595–614  
 
-- **Investigaciones en Islote Lobos**  
-  Borella, F. et al.  
-  *Revista del Museo de Antropología*
+- **Estudio arqueobotánico de artefactos de molienda provenientes de la localidad arqueológica Punta Odriozola (golfo San Matías, Río Negro)**  
+  Ciampagna, M.L., Cardillo, M., Alberti, J.  
+  *Revista del Museo de Antropología* 13(2): 37–44  
 
-- **Estudio arqueobotánico en Punta Odriozola**  
-  Ciampagna, L. et al.  
-  *Revista del Museo de Antropología*
+- **Resultados preliminares de las investigaciones arqueológicas en el Área Natural Complejo Islote Lobos, costa oeste del golfo San Matías (provincia de Río Negro)**  
+  Borella, F., Cardillo, M., Alberti, J., Scartascini, F.L., Carranza, E., et al.  
+  *Revista del Museo de Antropología* 13(2): 57–68  
 
-- **Multi-isotopic and morphometric evidence for migration**  
-  Barberena, R. et al.  
-  *Scientific Reports*  
-  https://doi.org/10.1038/s41598-020-78013-x
-
+- **Avances y desafíos en torno a los abordajes cuali-cuantitativos aplicados a los estudios líticos**  
+  Cardillo, M., Restifo, F.  
+  *Revista del Museo de Antropología* 13(1): 299–300  
 
