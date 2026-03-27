@@ -81,7 +81,7 @@ title: "Trabajos publicados recientemente / Recent papers"
 
 - **Benchmarking methods and data for the whole-outline geometric morphometric analysis of lithic tools**  
   Araujo, R.P., Riede, F., Okumura, M., Araujo, A.G.M., Leplongeon, A., Wren, C., et al.  
-  *Evolutionary Anthropology* 32(3): 124–127 
+  *Evolutionary Anthropology* 32(3): 124–127
   
 - **Explaining the diversification of lithic projectile points from the northern Patagonian coast (Argentina) during the Holocene using        phylogenetic and comparative methods**  
   Cardillo, M., Alberti, J.  
