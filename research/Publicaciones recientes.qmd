@@ -2,6 +2,15 @@
 title: "Trabajos publicados recientemente / Recent papers"
 ---
 
+## 2026
+
+- **Local agricultural transition, crisis and migration in the Southern Andes**  
+  Barberena, R., Luisi, P., Novellino, P., Tessone, A., Guevara, D., García, A., Nelson, E., le Roux, P., Herrera, C., Coz, M., Candito, G., Lopopolo, M., Le Corre, M., Becerra-Valdivia, L., Iraeta-Orbegozo, M., Tressieres, G., Lucero, G., Cardillo, M., Carbajo Merler, J., Da Peña, G., Suby, J., Roux, M., de Porras, M., Acosta, C., Mallea, C., Menéndez, L., Quintana, M., López, M., Troncoso, A., Luyt, J., Gray, K., Santana Sagredo, F., Orlando, L., Duran, V., Sealy, J., Patin, E., Quintana-Murci, L., Schroeder, H., Rascovan, N.  
+  *Nature*  
+  https://doi.org/10.1038/s41586-026-10233-z
+  
+  ---
+  
 ## 2025
 
 - **Unveiling the spatial structure of rock painting designs and information flow among hunter-gatherers in southern Patagonia**  
