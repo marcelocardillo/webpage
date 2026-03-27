@@ -24,6 +24,10 @@ about:
       text: GITHUB
       href: https://github.com/marcelocardillo
       
+    - icon: youtube
+      text: YOUTUBE
+      href: https://www.youtube.com/@estadisticaparaarqueologos8391
+      
       
 ---
 Soy investigador  independiente del CONICET en arqueología con foco en tecnología lítica, teoría evolutiva y el uso de herramientas estadísticas.
@@ -32,8 +36,8 @@ Mi trabajo combina experimentación, análisis estadístico y modelado para comp
 
 Actualmente desarrollo investigaciones sobre:
 
-Cambio tecnológico
-Inferencia causal en arqueología
+Cambio tecnológico.
+Inferencia causal en arqueología.
 Estrategias tecnológicas en la explotación de recursos costeros
 
 Estoy interesado en enfoques cuantitativos y reproducibles aplicados a problemas arqueológicos.
@@ -46,8 +50,8 @@ My research integrates experimentation, statistical analysis, and modeling to un
 
 I am currently working on:
 
-Technological change
-Causal inference in archaeology
+Technological change.
+Causal inference in archaeology.
 Technological strategies in coastal resource exploitation
 
 I am interested in quantitative and reproducible approaches to archaeological problems.
