@@ -19,6 +19,12 @@ about:
     - icon: person-badge
       text: ORCID
       href: https://orcid.org/0000-0003-0567-1252
+      
+    - icon: github
+      text: GITHUB
+      href: https://github.com/marcelocardillo
+      
+      
 ---
 Soy investigador  independiente del CONICET en arqueología con foco en tecnología lítica, teoría evolutiva y el uso de herramientas estadísticas.
 
