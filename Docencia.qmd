@@ -1,7 +1,7 @@
 ---
 title: " Docencia/Teaching"
 ---
-## Docencia
+## Docencia 2026
 
 Me desempeño como docente en cursos de grado y posgrado en arqueología y antropología, con énfasis en métodos cuantitativos, teoría evolutiva y análisis estadístico aplicado.
 
@@ -24,7 +24,7 @@ Me desempeño como docente en cursos de grado y posgrado en arqueología y antro
 
 ---
 
-## Teaching
+## Teaching 2026
 
 I teach undergraduate and graduate courses in archaeology and anthropology, with a focus on quantitative methods, evolutionary theory, and applied statistical analysis.
 
